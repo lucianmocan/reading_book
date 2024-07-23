@@ -39,7 +39,6 @@ function displayBooks(books) {
         );
         content += book.getBookView();
     });
-    console.log(content);
     document.getElementById('book-list').innerHTML = content;
 }
 
