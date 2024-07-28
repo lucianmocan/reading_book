@@ -47,11 +47,19 @@ document.addEventListener('DOMContentLoaded', () => displayBooks(booksData));
  
 const booksData = [
     {
+        "book_id": 7,
+        "book_name": "Bel-Ami",
+        "book_sub_name": "",
+        "book_author": "Guy de Maupassant",
+        "reading_status": "reading",
+        "book_cover_url": "https://m.media-amazon.com/images/I/51PHrnqQgWL.jpg"
+    },
+    {
         "book_id": 6,
         "book_name": "Roboții",
         "book_sub_name": "Roboții din lumea zorilor",
         "book_author": "Isaac Asimov",
-        "reading_status": "reading",
+        "reading_status": "finished",
         "book_cover_url": "https://static.editura-art.ro/image/7586/robotii-din-lumea-zorilor-cover_big_slide_new.jpg"
     },
     {
