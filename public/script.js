@@ -51,7 +51,7 @@ const booksData = [
         "book_name": "Bel-Ami",
         "book_sub_name": "",
         "book_author": "Guy de Maupassant",
-        "reading_status": "reading",
+        "reading_status": "finished",
         "book_cover_url": "https://m.media-amazon.com/images/I/51PHrnqQgWL.jpg"
     },
     {
